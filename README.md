@@ -82,7 +82,9 @@ int main() {
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2025-03-19 at 15 23 59_b5a4e9f1](https://github.com/user-attachments/assets/7b857a03-6e1f-42a5-aaa3-1c52e96b7ed5)
+![image](https://github.com/user-attachments/assets/3bcf495e-36d1-4b4e-8d05-2654282f1de2)
+![image](https://github.com/user-attachments/assets/7af5e818-9ab0-43dd-a193-99e4c5a46435)
+
 
 ## RESULT:
 The program to implement a symbol table is executed and the output is verified.
